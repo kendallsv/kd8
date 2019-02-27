@@ -1,0 +1,14 @@
+uuid: 4d41e325-c43e-48c5-9077-c22b8aa32aea
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - kendallsv@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
